@@ -1,0 +1,44 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# User-specific files
+*.userprefs
+*.sln.ide
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Resharper files
+_ReSharper*/
+*.[Rr]eSharper
+*.DotSettings
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Publish output
+publish/
